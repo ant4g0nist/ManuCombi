@@ -24,4 +24,4 @@ Usage:
 	~/ManuCombi ❯❯❯ python combin.py -s Sample.xls -o op -e xls -r 3
 	[+]	Going through round 3
 
-- thanks for bearing the with my dumb ass code
+- thanks for beer'g with my dumb ass code
