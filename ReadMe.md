@@ -2,7 +2,9 @@ ManuCombi
 	- Mutates and generates files with all possible combinations of fuzzed bytes in the file.
 
 Usage:
+	
 	~/ManuCombi ❯❯❯ python combin.py -h
+
 	usage: combin.py [-h] -s SAMPLE [-r ROUND] -e EXT -o OUTPUT [-v]
 
 	optional arguments:
