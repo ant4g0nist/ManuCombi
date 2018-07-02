@@ -95,7 +95,8 @@ class ManuCombi:
 					self.new_file = self._fuzz_with_random_value(val)
 					self.count=0
 			cou+=1
-			self.count==4
+			self.count=4
+			
 		return self.new_file
 
 	def _fuzz_with_max_value(self,val):
